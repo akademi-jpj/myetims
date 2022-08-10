@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: Myetims Manual
+theme:
+  name: material
+  
+  features:
+    - content.code.annotate
+  #   - navigation.tabs
+  #   - navigation.tabs.sticky
+  font:
+    text: Roboto
+  palette:
+    primary: indigo  
+markdown_extensions:
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
