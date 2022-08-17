@@ -1,7 +1,7 @@
 site_name: Myetims Manual
 theme:
   name: material
-  
+ 
   features:
     - content.code.annotate
   #   - navigation.tabs
@@ -17,3 +17,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+nav:
+  - Pengenalan: index.md
+  - Cetak Sijil : sijil.md
+  
+  
