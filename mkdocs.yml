@@ -19,6 +19,6 @@ markdown_extensions:
   - pymdownx.superfences
 nav:
   - Pengenalan: index.md
-  - Cetak Sijil : sijil.md
+  - Cetak Sijil: cert.md
   
   
