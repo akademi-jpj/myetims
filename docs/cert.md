@@ -16,3 +16,5 @@ Status eSijil Kehadiran dipaparkan dan klik pada cetakan sijil bagi kursus yang 
 
 ![alt sijil](img/Sijil.png)
 
+Klik pada link Cetakan sijil (versi pdf) untuk dicetak. Sijil kursus ini akan berada di dalam sistem dan tidak mempunyai tarikh luput. Sijil ini dicetak jika perlu sahaja.
+
